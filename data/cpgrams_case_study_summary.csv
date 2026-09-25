@@ -1,0 +1,5 @@
+Metric,Value,Change
+Avg disposal time trend (2021->2026),32 days -> 13 days,-59%
+Disposal-time regression slope,-2.70 days/year,"r=-0.830, p=0.021"
+Mean States/UTs disposal ratio,1.050,"Disposed/Received, 3 exact months"
+States/UTs pendency (confirmed months),"185,519 -> 197,787",+6.6%

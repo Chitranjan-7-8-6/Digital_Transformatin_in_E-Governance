@@ -1,0 +1,5 @@
+Month,Received,Disposed,Pendency,Precision,DisposalRatio
+Dec-2024,60651,67193,185519.0,exact,1.1078630195709882
+Feb-2025,52464,50088,190994.0,exact,0.9547118023787741
+May-2025,67787,78123,197787.0,exact,1.1524776137017423
+Oct-2025,64000,63000,,approximate (reported as 'more than'),0.984375
