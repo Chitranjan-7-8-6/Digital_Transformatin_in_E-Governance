@@ -11,7 +11,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
 ![Data](https://img.shields.io/badge/Data-UIDAI%20%2B%20NPCI%20%2B%20DARPG%20(Govt.%20of%20India)-orange)
 
-**[📓 Notebook](notebooks/06_comprehensive_evaluation_cpgrams.ipynb) · [📊 Live Dashboard](dashboard/digital_transformation_dashboard.html) · [📄 Full Report](docs/Week6_Final_Evaluation_Report.docx)**
+**[📓 Notebook](notebooks/06_comprehensive_evaluation_cpgrams.ipynb) · [📊 Live Dashboard](index.html) · [📄 Full Report](docs/Week6_Final_Evaluation_Report.docx)**
 
 </div>
 
